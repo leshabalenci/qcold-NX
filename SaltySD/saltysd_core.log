@@ -1,0 +1,164 @@
+SaltySD Core: got SD card handle 201fd
+SaltySD Core 1.7.1: restoring code...
+SaltySD Core: Found svcSetHeapSize at address: 0x3f4016bc0c!
+SaltySD Core: Found svcGetInfo at address: 0x3f4016be04!
+SaltySD Patcher: Searching patches in dir '/'...
+SaltySD Patcher: Searching patches in dir '/0100F8F0000A2000'...
+SaltySD Core: Searching plugin dir `'...
+SaltySD Core: Searching plugin dir `0100F8F0000A2000/'...
+SaltySD Core: Plugins not detected...
+SaltySD_CheckIfSharedMemoryAvailable ret: 0x0
+SaltySD Core: got SharedMemory handle d81fc
+NX-FPS: alive
+NX-FPS: found main at: 0x3F3D204000
+NX-FPS: ret: 0x0
+NX-FPS: MemoryOffset: 4
+SaltySD Core: 5fc36 nvnBootstrapLoader to 0x3f3d0011f0, 2cfc530 0x3f3ff00530
+SaltySD Core: 5faa3 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x3f3d000600, 2cfb898 0x3f3feff898
+SaltySD Core: 69c5 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x3f3d000600, 919dc8 0x3f409dbdc8
+SaltySD Core: 622e _ZN2nn2fs6detail12FileAccessor4ReadEPmlPvmRKNS0_10ReadOptionE to 0x3f3d000550, 916110 0x3f409d8110
+SaltySD Core: BID: 03DCAD95E1AC6430
+NX-FPS: BID: 03DCAD95E1AC6430
+NX-FPS: FPSLocker: File not found: sdmc:/SaltySD/plugins/FPSLocker/patches/0100F8F0000A2000/03DCAD95E1AC6430.bin
+NX-FPS: injection finished
+ReverseNX: alive
+ReverseNX: SharedMemory ret: 0x0
+ReverseNX: SharedMemory MemoryOffset: 180
+ReverseNX: Couldn't load save from sdmc:/SaltySD/plugins/ReverseNX-RT/0100F8F0000A2000.dat! Errno: 2. Using default settings.
+SaltySD Core: 5fc7b _ZN2nn2oe25TryPopNotificationMessageEPj to 0x3f3d005910, 2cfc758 0x3f3ff00758
+SaltySD Core: 5fcb4 _ZN2nn2oe16GetOperationModeEv to 0x3f3d005a70, 2cfc920 0x3f3ff00920
+SaltySD Core: 5faa0 _ZN2nn2os18TryWaitSystemEventEPNS0_15SystemEventTypeE to 0x3f3d005e00, 2cfb880 0x3f3feff880
+SaltySD Core: 714f _ZN2nn2os18TryWaitSystemEventEPNS0_15SystemEventTypeE to 0x3f3d005e00, 91da18 0x3f409dfa18
+SaltySD Core: 5fbd8 _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x3f3d005fb0, 2cfc240 0x3f3ff00240
+SaltySD Core: 6d7c _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x3f3d005fb0, 91bb80 0x3f409ddb80
+SaltySD Core: 661f _ZN2nn2os25InitializeMultiWaitHolderEPNS0_19MultiWaitHolderTypeEPNS0_15SystemEventTypeE to 0x3f3d005cf0, 918098 0x3f409da098
+SaltySD Core: 6614 _ZN2nn2os19LinkMultiWaitHolderEPNS0_13MultiWaitTypeEPNS0_19MultiWaitHolderTypeE to 0x3f3d005d50, 918040 0x3f409da040
+SaltySD Core: 5f8e _ZN2nn2os7WaitAnyEPNS0_13MultiWaitTypeE to 0x3f3d005f30, 914c10 0x3f409d6c10
+ReverseNX: injection finished
+SaltySD Core: got SD card handle 201fd
+SaltySD Core 1.7.1: restoring code...
+SaltySD Core: Found svcSetHeapSize at address: 0x37539b5988!
+SaltySD Core: Found svcGetInfo at address: 0x37539b5b58!
+SaltySD Patcher: Searching patches in dir '/'...
+SaltySD Patcher: Searching patches in dir '/010072800CBE8000'...
+SaltySD Core: Searching plugin dir `'...
+SaltySD Core: Searching plugin dir `010072800CBE8000/'...
+SaltySD Core: Plugins not detected...
+SaltySD_CheckIfSharedMemoryAvailable ret: 0x0
+SaltySD Core: got SharedMemory handle d81fc
+NX-FPS: alive
+NX-FPS: found main at: 0x374EA04000
+NX-FPS: ret: 0x0
+NX-FPS: MemoryOffset: 4
+SaltySD Core: 78fa9 nvnBootstrapLoader to 0x374e8011f0, 4335858 0x3752d39858
+SaltySD Core: 3f79 nvnBootstrapLoader to 0x374e8011f0, 577cf8 0x375373acf8
+SaltySD Core: 78f47 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x374e800600, 4335548 0x3752d39548
+SaltySD Core: 7b88 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x374e800600, cf4928 0x3754551928
+SaltySD Core: 6717 _ZN2nn2fs6detail12FileAccessor4ReadEPmlPvmRKNS0_10ReadOptionE to 0x374e800550, cea5a0 0x37545475a0
+SaltySD Core: BID: B5D89E9B94F4104C
+NX-FPS: BID: B5D89E9B94F4104C
+NX-FPS: FPSLocker: File not found: sdmc:/SaltySD/plugins/FPSLocker/patches/010072800CBE8000/B5D89E9B94F4104C.bin
+NX-FPS: injection finished
+ReverseNX: alive
+ReverseNX: SharedMemory ret: 0x0
+ReverseNX: SharedMemory MemoryOffset: 180
+ReverseNX: Couldn't load save from sdmc:/SaltySD/plugins/ReverseNX-RT/010072800CBE8000.dat! Errno: 2. Using default settings.
+SaltySD Core: 78f73 _ZN2nn2oe25TryPopNotificationMessageEPj to 0x374e805910, 43356a8 0x3752d396a8
+SaltySD Core: 78f45 _ZN2nn2oe18GetPerformanceModeEv to 0x374e805a00, 4335538 0x3752d39538
+SaltySD Core: 78f46 _ZN2nn2oe16GetOperationModeEv to 0x374e805a70, 4335540 0x3752d39540
+SaltySD Core: 78fa1 _ZN2nn2os18TryWaitSystemEventEPNS0_15SystemEventTypeE to 0x374e805e00, 4335818 0x3752d39818
+SaltySD Core: 6a92 _ZN2nn2os18TryWaitSystemEventEPNS0_15SystemEventTypeE to 0x374e805e00, cec178 0x3754549178
+SaltySD Core: 78faf _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x374e805fb0, 4335888 0x3752d39888
+SaltySD Core: 46da _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x374e805fb0, 57b800 0x375373e800
+SaltySD Core: 6909 _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x374e805fb0, ceb530 0x3754548530
+SaltySD Core: 6634 _ZN2nn2os25InitializeMultiWaitHolderEPNS0_19MultiWaitHolderTypeEPNS0_15SystemEventTypeE to 0x374e805cf0, ce9e88 0x3754546e88
+SaltySD Core: 78feb _ZN2nn2os19LinkMultiWaitHolderEPNS0_13MultiWaitTypeEPNS0_19MultiWaitHolderTypeE to 0x374e805d50, 4335a68 0x3752d39a68
+SaltySD Core: 661d _ZN2nn2os19LinkMultiWaitHolderEPNS0_13MultiWaitTypeEPNS0_19MultiWaitHolderTypeE to 0x374e805d50, ce9dd0 0x3754546dd0
+SaltySD Core: 78fec _ZN2nn2os7WaitAnyEPNS0_13MultiWaitTypeE to 0x374e805f30, 4335a70 0x3752d39a70
+SaltySD Core: 661e _ZN2nn2os7WaitAnyEPNS0_13MultiWaitTypeE to 0x374e805f30, ce9dd8 0x3754546dd8
+ReverseNX: injection finished
+SaltySD Core: got SD card handle 201fd
+SaltySD Core 1.7.1: restoring code...
+SaltySD Core: Found svcSetHeapSize at address: 0x6a85eaa6b0!
+SaltySD Core: Found svcGetInfo at address: 0x6a85eaa880!
+SaltySD Patcher: Searching patches in dir '/'...
+SaltySD Patcher: Searching patches in dir '/0100D71004694000'...
+SaltySD Core: 17074 _ZN2nn2ro10LoadModuleEPNS0_6ModuleEPKvPvmi to 0x6a73809990, f3b69e0 0x6a82dbb9e0
+SaltySD Core: Searching plugin dir `'...
+SaltySD Core: Searching plugin dir `0100D71004694000/'...
+SaltySD Core: Plugins not detected...
+SaltySD_CheckIfSharedMemoryAvailable ret: 0x0
+SaltySD Core: got SharedMemory handle e81fc
+NX-FPS: alive
+NX-FPS: found main at: 0x6A73A05000
+NX-FPS: ret: 0x0
+NX-FPS: MemoryOffset: 4
+SaltySD Core: 12b vkQueuePresentKHR to 0x6a73803db0, 26567c0 0x6a85c297c0
+SaltySD Core: 152 vkGetDeviceProcAddr to 0x6a73804050, 26560e0 0x6a85c290e0
+SaltySD Core: ae vkGetInstanceProcAddr to 0x6a738041f0, 2652ec8 0x6a85c25ec8
+SaltySD Core: af vkGetInstanceProcAddr to 0x6a738041f0, 2656078 0x6a85c29078
+SaltySD Core: c1 vkCmdSetViewport to 0x6a73804bd0, 2656368 0x6a85c29368
+SaltySD Core: 75 vkCmdSetViewportWithCount to 0x6a73804cb0, 2656698 0x6a85c29698
+SaltySD Core: 98 vkCreateSwapchainKHR to 0x6a73803e50, 26567a0 0x6a85c297a0
+SaltySD Core: 17161 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x6a73800600, f3b7148 0x6a82dbc148
+SaltySD Core: 4243 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x6a73800600, b010b8 0x6a868490b8
+SaltySD Core: 171ba _ZN2nn2ro12LookupSymbolEPmPKc to 0x6a73800a20, f3b7410 0x6a82dbc410
+SaltySD Core: 3042 _ZN2nn2fs6detail12FileAccessor4ReadEPmlPvmRKNS0_10ReadOptionE to 0x6a73800550, af80b0 0x6a868400b0
+SaltySD Core: BID: B54A2F419CBFBADE
+NX-FPS: BID: B54A2F419CBFBADE
+NX-FPS: FPSLocker: File not found: sdmc:/SaltySD/plugins/FPSLocker/patches/0100D71004694000/B54A2F419CBFBADE.bin
+NX-FPS: injection finished
+ReverseNX: alive
+ReverseNX: SharedMemory ret: 0x0
+ReverseNX: SharedMemory MemoryOffset: 180
+ReverseNX: Couldn't load save from sdmc:/SaltySD/plugins/ReverseNX-RT/0100D71004694000.dat! Errno: 2. Using default settings.
+SaltySD Core: 17165 _ZN2nn2oe25TryPopNotificationMessageEPj to 0x6a73805910, f3b7168 0x6a82dbc168
+SaltySD Core: 17166 _ZN2nn2oe18GetPerformanceModeEv to 0x6a73805a00, f3b7170 0x6a82dbc170
+SaltySD Core: 17136 _ZN2nn2oe16GetOperationModeEv to 0x6a73805a70, f3b6ff0 0x6a82dbbff0
+SaltySD Core: 17142 _ZN2nn2oe27GetDefaultDisplayResolutionEPiS1_ to 0x6a73805af0, f3b7050 0x6a82dbc050
+SaltySD Core: 1704e _ZN2nn2os18TryWaitSystemEventEPNS0_15SystemEventTypeE to 0x6a73805e00, f3b68b0 0x6a82dbb8b0
+SaltySD Core: 332a _ZN2nn2os18TryWaitSystemEventEPNS0_15SystemEventTypeE to 0x6a73805e00, af97f0 0x6a868417f0
+SaltySD Core: 17111 _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x6a73805fb0, f3b6ec8 0x6a82dbbec8
+SaltySD Core: 31e0 _ZN2nn2os15WaitSystemEventEPNS0_15SystemEventTypeE to 0x6a73805fb0, af8da0 0x6a86840da0
+SaltySD Core: 2f1d _ZN2nn2os25InitializeMultiWaitHolderEPNS0_19MultiWaitHolderTypeEPNS0_15SystemEventTypeE to 0x6a73805cf0, af7788 0x6a8683f788
+SaltySD Core: 172cd _ZN2nn2os19LinkMultiWaitHolderEPNS0_13MultiWaitTypeEPNS0_19MultiWaitHolderTypeE to 0x6a73805d50, f3b7ca8 0x6a82dbcca8
+SaltySD Core: 2f04 _ZN2nn2os19LinkMultiWaitHolderEPNS0_13MultiWaitTypeEPNS0_19MultiWaitHolderTypeE to 0x6a73805d50, af76c0 0x6a8683f6c0
+SaltySD Core: 2f05 _ZN2nn2os7WaitAnyEPNS0_13MultiWaitTypeE to 0x6a73805f30, af76c8 0x6a8683f6c8
+ReverseNX: injection finished
+SaltySD Core: Game is using RELR. Applying hacky solution.
+SaltySD Core: 1723f _ZN2nn2os15QueryMemoryInfoEPNS0_10MemoryInfoE to 0x6a73806c60, f3b7838 0x6a82dbc838
+SaltySD Core: 32da _ZN2nn2os15QueryMemoryInfoEPNS0_10MemoryInfoE to 0x6a73806c60, af9570 0x6a86841570
+SaltySD Core: 2f28 _ZN2nn4diag40GetRequiredBufferSizeForGetAllModuleInfoEv to 0x6a73806810, af77e0 0x6a8683f7e0
+SaltySD Core: 2f29 _ZN2nn4diag16GetAllModuleInfoEPPNS0_10ModuleInfoEPvm to 0x6a73806870, af77e8 0x6a8683f7e8
+SaltySD Core: got SD card handle 201fd
+SaltySD Core 1.7.1: restoring code...
+SaltySD Core: Found svcSetHeapSize at address: 0x74818aa6b0!
+SaltySD Core: Found svcGetInfo at address: 0x74818aa880!
+SaltySD Patcher: Searching patches in dir '/'...
+SaltySD Patcher: Searching patches in dir '/0100D71004694000'...
+SaltySD Core: 17074 _ZN2nn2ro10LoadModuleEPNS0_6ModuleEPKvPvmi to 0x746f209990, f3b69e0 0x747e7bb9e0
+SaltySD Core: Searching plugin dir `'...
+SaltySD Core: Searching plugin dir `0100D71004694000/'...
+SaltySD Core: Plugins not detected...
+SaltySD_CheckIfSharedMemoryAvailable ret: 0x0
+SaltySD Core: got SharedMemory handle e81fc
+NX-FPS: alive
+NX-FPS: found main at: 0x746F405000
+NX-FPS: ret: 0x0
+NX-FPS: MemoryOffset: 4
+SaltySD Core: 12b vkQueuePresentKHR to 0x746f203db0, 26567c0 0x74816297c0
+SaltySD Core: 152 vkGetDeviceProcAddr to 0x746f204050, 26560e0 0x74816290e0
+SaltySD Core: ae vkGetInstanceProcAddr to 0x746f2041f0, 2652ec8 0x7481625ec8
+SaltySD Core: af vkGetInstanceProcAddr to 0x746f2041f0, 2656078 0x7481629078
+SaltySD Core: c1 vkCmdSetViewport to 0x746f204bd0, 2656368 0x7481629368
+SaltySD Core: 75 vkCmdSetViewportWithCount to 0x746f204cb0, 2656698 0x7481629698
+SaltySD Core: 98 vkCreateSwapchainKHR to 0x746f203e50, 26567a0 0x74816297a0
+SaltySD Core: 17161 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x746f200600, f3b7148 0x747e7bc148
+SaltySD Core: 4243 _ZN2nn2oe20SetFocusHandlingModeENS0_17FocusHandlingModeE to 0x746f200600, b010b8 0x74822490b8
+SaltySD Core: 171ba _ZN2nn2ro12LookupSymbolEPmPKc to 0x746f200a20, f3b7410 0x747e7bc410
+SaltySD Core: 3042 _ZN2nn2fs6detail12FileAccessor4ReadEPmlPvmRKNS0_10ReadOptionE to 0x746f200550, af80b0 0x74822400b0
+SaltySD Core: BID: B54A2F419CBFBADE
+NX-FPS: BID: B54A2F419CBFBADE
+NX-FPS: FPSLocker: File not found: sdmc:/SaltySD/plugins/FPSLocker/patches/0100D71004694000/B54A2F419CBFBADE.bin
+NX-FPS: injection finished
+ReverseNX: alive

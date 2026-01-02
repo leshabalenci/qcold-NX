@@ -1,0 +1,303 @@
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:26] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:10] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:38] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:08] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:08] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:08] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:29] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:08] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:19] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 132 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:24] SaltySD: accepting service calls
+[00:00:24] SaltySD: session e83f3 being handled
+[00:00:24] SaltySD: cmd 10 handler
+[00:00:24] SaltySD: done accepting service calls
+[00:00:24] SaltySD: accepting service calls
+[00:00:24] SaltySD: session 1383f3 being handled
+[00:00:24] SaltySD: cmd 7 handler
+[00:00:24] SaltySD: done accepting service calls
+[00:00:59] SaltySD: accepting service calls
+[00:00:59] SaltySD: session 1903f3 being handled
+[00:00:59] SaltySD: cmd 7 handler
+[00:00:59] SaltySD: cmd 10 handler
+[00:00:59] SaltySD: done accepting service calls
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[01:38:36] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[01:38:48] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+[01:39:31] SaltySD: PID 138 is not allowing debugging, error 0xfa01, aborting...
+[01:39:52] SaltySD: PID 139 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:30] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:57] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+[00:01:01] SaltySD: PID 138 is not allowing debugging, error 0xfa01, aborting...
+[00:01:04] SaltySD: found valid AttachProcess event:
+[00:01:05] 		 tid 0100f8f0000a2000 pid 000000000000008b
+[00:01:05] 		 name Application
+[00:01:05] 		 isA64 1 addrSpace 3 enableDebug 1
+[00:01:05] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[00:01:05] 		 exception 0000000000000000
+[00:01:05] SaltySD: debug event 4, passing...
+[00:01:05] SaltySD: PID 139 svcGetDebugEventInfo: end of events...
+.text to 3f3d204000, .data to 3f3fbeb000
+[00:01:06] SaltySD: BID: 03DCAD95E1AC6430
+[00:01:06] SaltySD: accepting service calls
+[00:01:06] SaltySD: session 1c83f3 being handled
+[00:01:06] SaltySD: cmd 1 handler, proc handle 1e03f2, heap 618ce00000, path saltysd_core.elf
+[00:01:06] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x29088
+[00:00:00] SaltySD: load_elf_proc query mapping 0x618d000000, addr: 0x618ce00000, Perm: 3, size: 0x400000
+[00:00:00] SaltySD: load_elf_proc loaded ELF to buffer.
+[00:00:00] SaltySD: Found free address space at 3f3d000000, size 39000
+[00:01:06] SaltySD: done accepting service calls
+[00:01:06] SaltySD: accepting service calls
+[00:01:06] SaltySD: session 2683f3 being handled
+[00:01:06] SaltySD: cmd 4 handler
+[00:01:06] SaltySD: cmd 2 handler
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f4016bc0c, 3f3d024450, 10)
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f4016be04, 3f3d024450, 10)
+[00:01:06] SaltySD: cmd 6 handler, size: 1
+[00:01:06] SaltySD: cmd 7 handler
+[00:01:06] SaltySD: cmd 6 handler, size: 174
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f3f608560, 25b71c5bc8, 18)
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f3f605f98, 25b71c5bc8, 18)
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f4053fa88, 25b71c5bc8, 18)
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f40534460, 25b71c5bc8, 18)
+[00:01:06] SaltySD: cmd 8 handler PID: 139
+[00:01:06] SaltySD: cmd 6 handler, size: 7
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f3f608bd8, 25b71c5cd8, 18)
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f3f609130, 25b71c5cd8, 18)
+[00:01:06] SaltySD: cmd 3 handler, memcpy(3f3f605f50, 25b71c5cd8, 18)
+[00:01:07] SaltySD: cmd 3 handler, memcpy(3f4054af78, 25b71c5cd8, 18)
+[00:01:07] SaltySD: cmd 3 handler, memcpy(3f3f607c90, 25b71c5cd8, 18)
+[00:01:07] SaltySD: cmd 3 handler, memcpy(3f405453b0, 25b71c5cd8, 18)
+[00:01:07] SaltySD: cmd 3 handler, memcpy(3f4053a2f8, 25b71c5cd8, 18)
+[00:01:07] SaltySD: cmd 3 handler, memcpy(3f4053a1f0, 25b71c5cd8, 18)
+[00:01:07] SaltySD: cmd 3 handler, memcpy(3f40530560, 25b71c5cd8, 18)
+[00:01:07] SaltySD: done accepting service calls
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 133 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 134 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:01:12] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:01:22] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+[00:01:16] SaltySD: PID 138 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+[42:20:34] SaltySD: PID 138 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:10] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+SaltySD 1.7.1: got SD card.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, error 0xfa01, aborting...
+[00:00:09] SaltySD: PID 137 is not allowing debugging, error 0xfa01, aborting...
+[00:31:36] SaltySD: PID 138 is not allowing debugging, error 0xfa01, aborting...
+[00:31:44] SaltySD: found valid AttachProcess event:
+[00:31:44] 		 tid 010072800cbe8000 pid 000000000000008b
+[00:31:44] 		 name Application
+[00:31:44] 		 isA64 1 addrSpace 3 enableDebug 1
+[00:31:44] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[00:31:44] 		 exception 0000000000000000
+[00:31:44] SaltySD: debug event 4, passing...
+[00:31:44] SaltySD: PID 139 svcGetDebugEventInfo: end of events...
+.text to 374ea04000, .data to 375290b000
+[00:31:46] SaltySD: BID: B5D89E9B94F4104C
+[00:31:46] SaltySD: accepting service calls
+[00:31:46] SaltySD: session 1a83f3 being handled
+[00:31:46] SaltySD: cmd 1 handler, proc handle 1c03f2, heap 24a7000000, path saltysd_core.elf
+[00:31:46] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x29088
+[00:00:00] SaltySD: load_elf_proc query mapping 0x24a7200000, addr: 0x24a7000000, Perm: 3, size: 0x400000
+[00:00:00] SaltySD: load_elf_proc loaded ELF to buffer.
+[00:00:00] SaltySD: Found free address space at 374e800000, size 39000
+[00:31:46] SaltySD: done accepting service calls
+[00:31:46] SaltySD: accepting service calls
+[00:31:46] SaltySD: session 2483f3 being handled
+[00:31:46] SaltySD: cmd 4 handler
+[00:31:46] SaltySD: cmd 2 handler
+[00:31:46] SaltySD: cmd 3 handler, memcpy(37539b5988, 374e824450, 10)
+[00:31:46] SaltySD: cmd 3 handler, memcpy(37539b5b58, 374e824450, 10)
+[00:31:46] SaltySD: cmd 6 handler, size: 1
+[00:31:46] SaltySD: cmd 7 handler
+[00:31:46] SaltySD: cmd 6 handler, size: 174
+[00:31:46] SaltySD: cmd 3 handler, memcpy(3751d3b858, 16e6439bc8, 18)
+[00:31:46] SaltySD: cmd 3 handler, memcpy(3753561370, 16e6439bc8, 18)
+[00:31:46] SaltySD: cmd 3 handler, memcpy(3751d3af28, 16e6439bc8, 18)
+[00:31:46] SaltySD: cmd 3 handler, memcpy(3753ef34d0, 16e6439bc8, 18)
+[00:31:46] SaltySD: cmd 3 handler, memcpy(3753ed4a38, 16e6439bc8, 18)
+[00:31:46] SaltySD: cmd 8 handler PID: 139
+[00:31:46] SaltySD: cmd 6 handler, size: 7
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3b348, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3aef8, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3af10, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3b798, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3753ed9dc0, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3b8e8, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(375356c488, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3753ed78e8, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3753ed34f0, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3be88, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3753ed32c8, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3751d3bea0, 16e6439cd8, 18)
+[00:31:47] SaltySD: cmd 3 handler, memcpy(3753ed32e0, 16e6439cd8, 18)
+[00:31:47] SaltySD: done accepting service calls
+[00:32:08] SaltySD: PID 140 is not allowing debugging, error 0xfa01, aborting...
+[25:30:11] SaltySD: PID 141 is not allowing debugging, error 0xfa01, aborting...
+[25:30:23] SaltySD: found valid AttachProcess event:
+[25:30:23] 		 tid 0100d71004694000 pid 000000000000008e
+[25:30:23] 		 name MinecraftPE
+[25:30:23] 		 isA64 1 addrSpace 3 enableDebug 1
+[25:30:23] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[25:30:23] 		 exception 0000000000000000
+[25:30:23] SaltySD: debug event 4, passing...
+[25:30:23] SaltySD: PID 142 svcGetDebugEventInfo: end of events...
+[24:58:42] .text to 6a73a05000, .data to 6a826b3000
+[25:30:28] SaltySD: BID: B54A2F419CBFBADE
+[25:30:28] SaltySD: accepting service calls
+[25:30:28] SaltySD: session 5b03f3 being handled
+[25:30:28] SaltySD: cmd 1 handler, proc handle 5c83f1, heap 12aba00000, path saltysd_core.elf
+[25:30:28] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x29088
+[24:58:42] SaltySD: load_elf_proc query mapping 0x12abc00000, addr: 0x12aba00000, Perm: 3, size: 0x400000
+[24:58:42] SaltySD: load_elf_proc loaded ELF to buffer.
+[24:58:42] SaltySD: Found free address space at 6a73800000, size 39000
+[25:30:28] SaltySD: done accepting service calls
+[25:30:28] SaltySD: accepting service calls
+[25:30:28] SaltySD: session 6503f3 being handled
+[25:30:28] SaltySD: cmd 4 handler
+[25:30:28] SaltySD: cmd 2 handler
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a85eaa6b0, 6a73824450, 10)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a85eaa880, 6a73824450, 10)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f642b68, 2540091d68, 18)
+[25:30:29] SaltySD: cmd 6 handler, size: 1
+[25:30:29] SaltySD: cmd 7 handler
+[25:30:29] SaltySD: cmd 6 handler, size: 174
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529fc40, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529ffe8, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529f088, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529f0a0, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529f250, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529eb30, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a8529ee78, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f6441a0, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a86393680, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f6449f8, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a86378668, 2540091bc8, 18)
+[25:30:29] SaltySD: cmd 8 handler PID: 142
+[25:30:29] SaltySD: cmd 6 handler, size: 7
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f644200, 2540091cd8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f644218, 2540091cd8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f643d98, 2540091cd8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f643eb8, 2540091cd8, 18)
+[25:30:29] SaltySD: cmd 3 handler, memcpy(6a7f6427d8, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a8637cc28, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a7f643a20, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a8637ad38, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a86376af0, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a7f6463c0, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a86376898, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a863768b0, 2540091cd8, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a7f645670, 2540091d68, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a8637c4a8, 2540091d68, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a86376bf8, 2540091d68, 18)
+[25:30:30] SaltySD: cmd 3 handler, memcpy(6a86376c10, 2540091d68, 18)
+[25:30:30] SaltySD: done accepting service calls
+[25:30:37] SaltySD: PID 143 is not allowing debugging, error 0xfa01, aborting...
+[25:30:53] SaltySD: PID 144 is not allowing debugging, error 0xfa01, aborting...
+[25:31:49] SaltySD: PID 145 is not allowing debugging, error 0xfa01, aborting...
+[25:31:53] SaltySD: found valid AttachProcess event:
+[25:31:53] 		 tid 0100d71004694000 pid 0000000000000092
+[25:31:53] 		 name MinecraftPE
+[25:31:53] 		 isA64 1 addrSpace 3 enableDebug 1
+[25:31:53] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[25:31:53] 		 exception 0000000000000000
+[25:31:53] SaltySD: debug event 4, passing...
+[25:31:53] SaltySD: PID 146 svcGetDebugEventInfo: end of events...
+[25:00:11] .text to 746f405000, .data to 747e0b3000
+[25:31:58] SaltySD: BID: B54A2F419CBFBADE
+[25:31:58] SaltySD: accepting service calls
+[25:31:58] SaltySD: session ab83f3 being handled
+[25:31:58] SaltySD: cmd 1 handler, proc handle ad03f2, heap 15f9c00000, path saltysd_core.elf
+[25:31:58] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x29088
+[25:00:12] SaltySD: load_elf_proc query mapping 0x15f9e00000, addr: 0x15f9c00000, Perm: 3, size: 0x400000
+[25:00:12] SaltySD: load_elf_proc loaded ELF to buffer.
+[25:00:12] SaltySD: Found free address space at 746f200000, size 39000
+[25:31:58] SaltySD: done accepting service calls
+[25:31:58] SaltySD: accepting service calls
+[25:31:58] SaltySD: session b583f3 being handled
+[25:31:58] SaltySD: cmd 4 handler
+[25:31:58] SaltySD: cmd 2 handler
+[25:31:59] SaltySD: cmd 3 handler, memcpy(74818aa6b0, 746f224450, 10)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(74818aa880, 746f224450, 10)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(747b042b68, 5d5c69ad68, 18)
+[25:31:59] SaltySD: cmd 6 handler, size: 1
+[25:31:59] SaltySD: cmd 7 handler
+[25:31:59] SaltySD: cmd 6 handler, size: 174
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9fc40, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9ffe8, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9f088, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9f0a0, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9f250, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9eb30, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7480c9ee78, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(747b0441a0, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7481d93680, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(747b0449f8, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 3 handler, memcpy(7481d78668, 5d5c69abc8, 18)
+[25:31:59] SaltySD: cmd 8 handler PID: 146
+[25:31:59] SaltySD: cmd 6 handler, size: 7
+[25:32:00] SaltySD: done accepting service calls
+[25:32:02] SaltySD: PID 147 is not allowing debugging, error 0xfa01, aborting...
+[25:33:16] SaltySD: PID 148 is not allowing debugging, error 0xfa01, aborting...
